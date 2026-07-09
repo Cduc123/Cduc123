@@ -1,7 +1,6 @@
 # Hi, My Name is Christopher Duclervil 👋 
 
-I'm a Computer Science student passionate about software development, cybersecurity, and embedded systems. I enjoy building projects that solve real-world problems while continuing to expand my knowledge of modern programming languages and technologies.
-
+  I am a Computer Science student specializing in Software Engineering, with an anticipated graduation date of October 2026. My interests include application development, software engineering, and embedded systems. I am committed to developing secure, scalable, and user-focused applications while continuously strengthening my skills in Python, Java, and C++ through hands-on projects and modern software development practices.
 ## 🚀 About Me
 
 - 🎓 Computer Science student
