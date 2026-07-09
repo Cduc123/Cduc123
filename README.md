@@ -25,6 +25,7 @@ I'm a Computer Science student passionate about software development, cybersecur
 - 🔹 Raspberry Pi Smart Thermostat (Embedded Systems)
 - 🔹 Software Security & Secure Coding Projects
 - 🔹 Object-Oriented Programming Applications
+- 🔹 +8 More
 
 ## 🎯 Goals
 
