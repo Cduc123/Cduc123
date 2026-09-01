@@ -41,4 +41,4 @@
 |📫 Contact |
 |--------------------------------------------------------------|
 | LinkedIin: https://www.linkedin.com/in/christopherduclervil/ |
-| Email: Cduc123@gmail.com                                     |
+| Email: Christopher.duclervil@outlook.com                                     |
