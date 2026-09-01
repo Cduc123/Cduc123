@@ -20,11 +20,16 @@
 
 ## 📂 Featured Projects
 
-- 🔹 Numeric Overflow & Underflow Detection (C++)
-- 🔹 Raspberry Pi Smart Thermostat (Embedded Systems)
-- 🔹 Software Security & Secure Coding Projects
-- 🔹 Object-Oriented Programming Applications
-- 🔹 +8 More
+- 🔹 Numeric Overflow & Underflow Detection (C++) [View Project](https://github.com/Cduc123/CS-405-Secure-Coding-Portfolio/blob/main/NumericOverflows.zip)
+- 🔹 Raspberry Pi Smart Thermostat (Embedded Systems) [View Project](https://github.com/Cduc123/Embeded-System-Thermostat-Lab-Programming-Rassberry-Pi)
+- 🔹 Secure Software Development & Cybersecurity Portfolio [View Project](https://github.com/Cduc123/CS-405-Secure-Coding-Portfolio)
+- 🔹 3D Computational Graphics & Visualization Application [View Project](https://github.com/Cduc123/Computational-Graphics-and-Visualization-3D-Design-Project)
+- 🔹 Full-Stack Software Engineering & Computer Science Capstone Portfolio  [View Project](https://github.com/Cduc123/Computer-Science-Capstone-Artifacts-Algorithms-Data-Structure-Software-Design-Engineering-Databases.git)
+- 🔹 Agile SCUM Presentation [View Project](https://github.com/Cduc123/-CS-250-Agile-SCUM)
+- 🔹 Junit Testing Portfolio [View Project](https://github.com/Cduc123/CS-320-Program-JUnit-Software-Testing-Project)
+- 🔹 Cloud System Analysis Design [View Project](https://github.com/Cduc123/CS-255-Cloud-System-Analysis-Design)
+- 🔹 Grocery Analyzer Program Architecture & Banking/Clock stimulation [View Project](https://github.com/Cduc123/CS210-Grocery-Analyzer-Banking-App-Clock-Stimulation-)
+- 🔹 The Gaming Room Software Design [View Project](https://github.com/Cduc123/-CS-230-The-Gaming-Room-Software-Design-Project-Game-)
 
 ## 🎯 Goals
 
