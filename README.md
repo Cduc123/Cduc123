@@ -37,6 +37,9 @@
 - Build real-world projects that strengthen my portfolio
 - Begin a career as a Software Engineer or Cybersecurity Professional
 
+## 🗂️ Presentation Videos
+- Computer Science ePortfolio Presentation:[View Presentation](https://www.youtube.com/watch?v=AWKZdxw0-58)
+- Secure Software Development Cybersecurity Portfolio: [View Presentation](https://www.youtube.com/watch?v=-h_0MoYpPB4)
 
 |📫 Contact |
 |--------------------------------------------------------------|
