@@ -11,6 +11,10 @@
 - 🛠️ Enjoy building applications that combine hardware and software
 - 📚 Always learning new technologies and development practices
 
+## 🎥 Presentation Videos
+- Computer Science ePortfolio Presentation: [View Presentation](https://www.youtube.com/watch?v=AWKZdxw0-58)
+- Secure Software Development Cybersecurity Portfolio: [View Presentation](https://www.youtube.com/watch?v=-h_0MoYpPB4)
+
 ## 💼 Technical Skills
 
 - **Languages:** C++, Java, Python, JavaScript, HTML, CSS
@@ -36,10 +40,6 @@
 - Continue developing secure and scalable software
 - Build real-world projects that strengthen my portfolio
 - Begin a career as a Software Engineer or Cybersecurity Professional
-
-## 🗂️ Presentation Videos
-- Computer Science ePortfolio Presentation:[View Presentation](https://www.youtube.com/watch?v=AWKZdxw0-58)
-- Secure Software Development Cybersecurity Portfolio: [View Presentation](https://www.youtube.com/watch?v=-h_0MoYpPB4)
 
 |📫 Contact |
 |--------------------------------------------------------------|
