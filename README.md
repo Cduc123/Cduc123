@@ -35,6 +35,10 @@
 - 🔹 Grocery Analyzer Program Architecture & Banking/Clock stimulation [View Project](https://github.com/Cduc123/CS210-Grocery-Analyzer-Banking-App-Clock-Stimulation-)
 - 🔹 The Gaming Room Software Design [View Project](https://github.com/Cduc123/-CS-230-The-Gaming-Room-Software-Design-Project-Game-)
 
+## 🎓  Certifications
+- 🔹Google IT Support
+- 🔹 CompTIA A+
+
 ## 🎯 Goals
 
 - Continue developing secure and scalable software
