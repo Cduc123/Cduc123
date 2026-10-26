@@ -1,6 +1,6 @@
 # Hi, My Name is Christopher Duclervil 👋 
 
-  I am a Computer Science student specializing in Software Engineering, with an anticipated graduation date of October 2026. My interests include application development, software engineering, and embedded systems. I am committed to developing secure, scalable, and user-focused applications while continuously strengthening my skills in Python, Java, and C++ through hands-on projects and modern software development practices.
+  I am a Computer Science student specializing in Software Engineering & IT Support, with an anticipated graduation date of November 1 2026. My interests include application development, software engineering, and embedded systems. I am committed to developing secure, scalable, and user-focused applications while continuously strengthening my skills in Python, Java, and C++ through hands-on projects and modern software development practices.
 ## 🚀 About Me
 
 - 🎓 Computer Science student
